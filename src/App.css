@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+
+#header{
+  color: aquamarine;
+  font-weight: normal;
+  
+}
+
+
+body{
+  height: 100%;
+  background-image: url(https://images.squarespace-cdn.com/content/v1/55b7f4ffe4b0a286c4c3499e/1564437277666-TFMDM94A2613DSP7PI3S/ke17ZwdGBToddI8pDm48kGoM3yVBFkFBakuD9s-3Qsp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0oycmklwMHPwSb2Cr-KYzbpYgr4-WzDn12GiDVULE_sk_7yMcy5g1F7X83zvWKZcUw/Runstreet+X+Pride+Art+Run+June+2019-1218.jpg?format=1500w);
+}
+
+
+button{
+  margin: 5px ;
+}
+
+#pads{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1300px;
+  margin : 0 auto
+ }
+
+ .padDiv{
+  background-color: mistyrose;
+  width: 280px;
+  height: 100px;
+}
+
+.pad{
+  margin: 30px;
+  
+}
+
+.button{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.button>{
+  margin: 5px;
+}
+
+#hedear{
+  color: black;
+  font-weight: bold;
+}
+
+#record{
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+}
